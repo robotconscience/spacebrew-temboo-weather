@@ -20,4 +20,5 @@ npm install ws
 ```
 node app.js
 ```
-	* It will output the current temp as a spacebrew range, the current conditions as a string, and the condition code (see Yahoo's API) as a range.
+	
+* It will output the current temp as a spacebrew range, the current conditions as a string, and the condition code (see Yahoo's API) as a range.
